@@ -1,10 +1,10 @@
 # About me
 
-
+<!-- 
 **VicCosti/VicCosti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 ## 🔭 I’m currently working on ...
 - improving my coding knowledge.🫡
 - taking the Google Cybersecurity Professional Certificate.
