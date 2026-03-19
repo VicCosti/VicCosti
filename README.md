@@ -49,7 +49,7 @@ I believe in **learning in public**: every lab, script, and project I work on en
 
 | Project | Area | Description |
 |---|---|---|
-| [🔐 Google Cybersecurity Certificate](https://github.com/vittoriocostigliola/google-cybersecurity-certificate) | Cybersecurity | Labs, projects and notes from the full 8-course program |
+| [🔐 Google Cybersecurity Certificate](https://github.com/VicCosti/google-cybersecurity-certificate) | Cybersecurity | Labs, projects and notes from the full 8-course program |
 | [🐧 Linux Security Labs](https://github.com/vittoriocostigliola/linux-security-labs) | Linux / CLI | Hands-on Linux exercises focused on security tasks |
 | [🐍 Python Security Automation](https://github.com/vittoriocostigliola/python-automation-security) | Python | Scripts for automating security-related tasks |
 | [🗄️ SQL Security Investigations](https://github.com/vittoriocostigliola/sql-security-investigations) | SQL | Queries and analysis on security-related datasets |
