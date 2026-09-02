@@ -22,7 +22,8 @@ I believe in **learning in public**: every lab, script, and project I work on en
 ## 📜 Certifications Completed
 > Courses and certifications I've completed, with related hands-on projects uploaded to my repos.
 
-[<img src="./assets/html-css-course.png" alt="Complete HTML and CSS Course" width="400"/>](https://github.com/VicCosti/html-css-full-course)
+[<img src="./google-cybersecurity-certificate/assets/images/logo_image
+/image.png" alt="Complete HTML and CSS Course" width="400"/>](https://github.com/VicCosti/google-cybersecurity-certificate/blob/main/assets/images/logo_image/image.png)
 
 ---
 ## 🛠️ Technologies & Tools
